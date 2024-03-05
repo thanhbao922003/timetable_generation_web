@@ -1,4 +1,4 @@
-# Timetable Generation System
+# Timetable Generation Web
 
 
 
